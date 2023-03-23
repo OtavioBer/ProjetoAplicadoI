@@ -1,5 +1,30 @@
 # Projeto Aplicado I - Tendência de compras em shoppings de Istambul
-## Infos
+## Sumário
+[Apresentação](https://github.com/OtavioBer/ProjetoAplicadoI/edit/main/README.md#apresenta%C3%A7%C3%A3o)
+- [Integrantes](https://github.com/OtavioBer/ProjetoAplicadoI/edit/main/README.md#apresenta%C3%A7%C3%A3o)
+- [Introdução](https://github.com/OtavioBer/ProjetoAplicadoI/edit/main/README.md#apresenta%C3%A7%C3%A3o)
+
+[Link dos Datasets analisado](https://github.com/OtavioBer/ProjetoAplicadoI/edit/main/README.md#apresenta%C3%A7%C3%A3o)
+- [Dataset público Kaggle](https://github.com/OtavioBer/ProjetoAplicadoI/edit/main/README.md#apresenta%C3%A7%C3%A3o)
+- [Dataset criado a partir de busca no Google](https://github.com/OtavioBer/ProjetoAplicadoI/edit/main/README.md#apresenta%C3%A7%C3%A3o)
+
+[Perguntas a serem respondidas](https://github.com/OtavioBer/ProjetoAplicadoI/edit/main/README.md#apresenta%C3%A7%C3%A3o)
+- [O público feminino consome mais roupas que o masculino?](https://github.com/OtavioBer/ProjetoAplicadoI/edit/main/README.md#apresenta%C3%A7%C3%A3o)
+- [Quais produtos são mais consumidos por gênero?](https://github.com/OtavioBer/ProjetoAplicadoI/edit/main/README.md#apresenta%C3%A7%C3%A3o) 
+- [Qual a categoria de compras mais consumida por faixa etária?](https://github.com/OtavioBer/ProjetoAplicadoI/edit/main/README.md#apresenta%C3%A7%C3%A3o)
+- [Qual o produto com maior consumo no público em geral?](https://github.com/OtavioBer/ProjetoAplicadoI/edit/main/README.md#apresenta%C3%A7%C3%A3o)
+- [Qual a forma de pagamento mais utilizada?](https://github.com/OtavioBer/ProjetoAplicadoI/edit/main/README.md#apresenta%C3%A7%C3%A3o)
+- [Qual a sazonalidade (dia da semana) de consumo com maior volume de compras?](https://github.com/OtavioBer/ProjetoAplicadoI/edit/main/README.md#apresenta%C3%A7%C3%A3o)
+- [Qual a média de consumo por gênero anual?](https://github.com/OtavioBer/ProjetoAplicadoI/edit/main/README.md#apresenta%C3%A7%C3%A3o)
+- [Qual shopping possui o maior ticket médio de compras?](https://github.com/OtavioBer/ProjetoAplicadoI/edit/main/README.md#apresenta%C3%A7%C3%A3o)
+- [Qual a linha de tendência de gastos do gênero e por faixa etária?](https://github.com/OtavioBer/ProjetoAplicadoI/edit/main/README.md#apresenta%C3%A7%C3%A3o)
+- [Qual categoria tem a maior quantidade consumida?](https://github.com/OtavioBer/ProjetoAplicadoI/edit/main/README.md#apresenta%C3%A7%C3%A3o)
+- [Qual a localidade de shopping tem o maior consumo por categoria?](https://github.com/OtavioBer/ProjetoAplicadoI/edit/main/README.md#apresenta%C3%A7%C3%A3o)
+
+
+
+
+## Apresentação
 ### Integrantes
 	Adrieli Machado Zaluski
 	Caroline Ribeiro Ferreira 
@@ -9,7 +34,7 @@
 	Otavio Bernardo Scandiuzzi
 
 
-### Proposito
+### Introdução
 
 	O propósito deste projeto é realizar um estudo de caso prático em uma base de dados pública, disponibilizada no site Kaggle. 
 	Os dados escolhidos para este estudo referem-se a compras em shoppings na cidade de Istambul, na Turquia.
