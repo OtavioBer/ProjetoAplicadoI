@@ -1,6 +1,6 @@
 # Projeto Aplicado I - Tendência de compras em shoppings de Istambul
 ## Sumário
-[Apresentação](https://github.com/OtavioBer/ProjetoAplicadoI/edit/main/README.md#apresenta%C3%A7%C3%A3o)
+[Apresentação](https://github.com/OtavioBer/ProjetoAplicadoI#apresenta%C3%A7%C3%A3o)
 - [Integrantes](https://github.com/OtavioBer/ProjetoAplicadoI#integrantes)
 - [Introdução](https://github.com/OtavioBer/ProjetoAplicadoI#introdu%C3%A7%C3%A3o)
 
