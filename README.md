@@ -44,9 +44,8 @@
 	mostrar através de aplicação de medidas estatísticas, no qual discutiremos e responderemos algumas perguntas ao longo do projeto, 
 	permitindo uma compreensão mais profunda do comportamento dos consumidores em Istambul.
 	Neste projeto apresentaremos os principais comandos utilizados para realizar as análises dos dados através da aplicação da linguagem Python,
-	com o uso do Colab. 
-	Como acessar o metadado, consultar quantidade de atributos, linhas, resumo do dataset, verificar os tipos dos atributos e como importar as bibliotecas
-	necessárias para realizar a exploração de dados de forma mais simplificada.
+	com o uso do Colab. Como acessar o metadado, consultar quantidade de atributos, linhas, resumo do dataset, verificar os tipos dos atributos
+	e como importar as bibliotecas necessárias para realizar a exploração de dados de forma mais simplificada.
 
 
 ## Link dos Datasets analisado
