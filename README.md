@@ -24,6 +24,20 @@
 
 
 
+
+
+- [O público feminino consome mais roupas que o masculino?]
+- [Quais produtos são mais consumidos por gênero?]
+- [Qual o ranking de produtos mais consumidos pelo público em geral?]
+- [Qual a forma de pagamento mais utilizada por faixa etária e por gênero?]
+- [Qual a sazonalidade (dia da semana) de consumo com maior volume de compras?]
+- [Qual a média de consumo anual por gênero e faixa etária?]
+- [Qual shopping possui o maior ticket médio de compras?]
+- [Como se dá a comparação de gastos totais por gênero e por faixa etária? E dos gastos médios?]
+- [Qual faixa etária mais consome artigos de leitura?]
+- [Qual a localidade de shopping tem o maior consumo por categoria?]
+- [Qual produto tem o maior e menor ticket médio por região?]
+
 ## Apresentação
 ### Integrantes
 	Adrieli Machado Zaluski
@@ -57,24 +71,14 @@
 
 
 ## Perguntas a serem respondidas
-### O público feminino consome mais roupas que o masculino? 
-
-### Quais produtos são mais consumidos por gênero? 
-
-### Qual a categoria de compras mais consumida por faixa etária? 
-
-### Qual o produto com maior consumo no público em geral? 
-
-### Qual a forma de pagamento mais utilizada? 
-
-### Qual a sazonalidade (dia da semana) de consumo com maior volume de compras? 
-
-### Qual a média de consumo por gênero anual? 
-
-### Qual shopping possui o maior ticket médio de compras? 
-
-### Qual a linha de tendência de gastos do gênero e por faixa etária? 
-
-### Qual categoria tem a maior quantidade consumida? 
-
-### Qual a localidade de shopping tem o maior consumo por categoria? 
+### 1. O público feminino consome mais roupas que o masculino?
+### 2. Quais produtos são mais consumidos por gênero?
+### 3. Qual o ranking de produtos mais consumidos pelo público em geral?
+### 4. Qual a forma de pagamento mais utilizada por faixa etária e por gênero?
+### 5. Qual a sazonalidade (dia da semana) de consumo com maior volume de compras?
+### 6. Qual a média de consumo anual por gênero e faixa etária?
+### 7. Qual shopping possui o maior ticket médio de compras?
+### 8. Como se dá a comparação de gastos totais por gênero e por faixa etária? E dos gastos médios?
+### 9. Qual faixa etária mais consome artigos de leitura?
+### 10. Qual a localidade de shopping tem o maior consumo por categoria?
+### 11. Qual produto tem o maior e menor ticket médio por região?
