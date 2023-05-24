@@ -9,34 +9,17 @@
 - [Dataset criado a partir de busca no Google](https://github.com/OtavioBer/ProjetoAplicadoI#dataset-criado-a-partir-de-busca-no-google)
 
 [Perguntas a serem respondidas](https://github.com/OtavioBer/ProjetoAplicadoI#perguntas-a-serem-respondidas)
-- [O público feminino consome mais roupas que o masculino?](https://github.com/OtavioBer/ProjetoAplicadoI#o-p%C3%BAblico-feminino-consome-mais-roupas-que-o-masculino)
-- [Quais produtos são mais consumidos por gênero?](https://github.com/OtavioBer/ProjetoAplicadoI#qual-a-categoria-de-compras-mais-consumida-por-faixa-et%C3%A1ria) 
-- [Qual a categoria de compras mais consumida por faixa etária?](https://github.com/OtavioBer/ProjetoAplicadoI#qual-a-categoria-de-compras-mais-consumida-por-faixa-et%C3%A1ria)
-- [Qual o produto com maior consumo no público em geral?](https://github.com/OtavioBer/ProjetoAplicadoI#qual-o-produto-com-maior-consumo-no-p%C3%BAblico-em-geral)
-- [Qual a forma de pagamento mais utilizada?](https://github.com/OtavioBer/ProjetoAplicadoI#qual-a-forma-de-pagamento-mais-utilizada)
-- [Qual a sazonalidade (dia da semana) de consumo com maior volume de compras?](https://github.com/OtavioBer/ProjetoAplicadoI#qual-a-sazonalidade-dia-da-semana-de-consumo-com-maior-volume-de-compras)
-- [Qual a média de consumo por gênero anual?](https://github.com/OtavioBer/ProjetoAplicadoI#qual-a-m%C3%A9dia-de-consumo-por-g%C3%AAnero-anual)
-- [Qual shopping possui o maior ticket médio de compras?](https://github.com/OtavioBer/ProjetoAplicadoI#qual-shopping-possui-o-maior-ticket-m%C3%A9dio-de-compras)
-- [Qual a linha de tendência de gastos do gênero e por faixa etária?](https://github.com/OtavioBer/ProjetoAplicadoI#qual-a-linha-de-tend%C3%AAncia-de-gastos-do-g%C3%AAnero-e-por-faixa-et%C3%A1ria)
-- [Qual categoria tem a maior quantidade consumida?](https://github.com/OtavioBer/ProjetoAplicadoI#qual-categoria-tem-a-maior-quantidade-consumida)
-- [Qual a localidade de shopping tem o maior consumo por categoria?](https://github.com/OtavioBer/ProjetoAplicadoI#qual-a-localidade-de-shopping-tem-o-maior-consumo-por-categoria)
-
-
-
-
-
-
-- [O público feminino consome mais roupas que o masculino?]
-- [Quais produtos são mais consumidos por gênero?]
-- [Qual o ranking de produtos mais consumidos pelo público em geral?]
-- [Qual a forma de pagamento mais utilizada por faixa etária e por gênero?]
-- [Qual a sazonalidade (dia da semana) de consumo com maior volume de compras?]
-- [Qual a média de consumo anual por gênero e faixa etária?]
-- [Qual shopping possui o maior ticket médio de compras?]
-- [Como se dá a comparação de gastos totais por gênero e por faixa etária? E dos gastos médios?]
-- [Qual faixa etária mais consome artigos de leitura?]
-- [Qual a localidade de shopping tem o maior consumo por categoria?]
-- [Qual produto tem o maior e menor ticket médio por região?]
+- [O público feminino consome mais roupas que o masculino?](https://github.com/OtavioBer/ProjetoAplicadoI#1-o-p%C3%BAblico-feminino-consome-mais-roupas-que-o-masculino)
+- [Quais produtos são mais consumidos por gênero?](https://github.com/OtavioBer/ProjetoAplicadoI#2-quais-produtos-s%C3%A3o-mais-consumidos-por-g%C3%AAnero)
+- [Qual o ranking de produtos mais consumidos pelo público em geral?](https://github.com/OtavioBer/ProjetoAplicadoI#3-qual-o-ranking-de-produtos-mais-consumidos-pelo-p%C3%BAblico-em-geral)
+- [Qual a forma de pagamento mais utilizada por faixa etária e por gênero?](https://github.com/OtavioBer/ProjetoAplicadoI#4-qual-a-forma-de-pagamento-mais-utilizada-por-faixa-et%C3%A1ria-e-por-g%C3%AAnero)
+- [Qual a sazonalidade (dia da semana) de consumo com maior volume de compras?](https://github.com/OtavioBer/ProjetoAplicadoI#5-qual-a-sazonalidade-dia-da-semana-de-consumo-com-maior-volume-de-compras)
+- [Qual a média de consumo anual por gênero e faixa etária?](https://github.com/OtavioBer/ProjetoAplicadoI#6-qual-a-m%C3%A9dia-de-consumo-anual-por-g%C3%AAnero-e-faixa-et%C3%A1ria)
+- [Qual shopping possui o maior ticket médio de compras?](https://github.com/OtavioBer/ProjetoAplicadoI#7-qual-shopping-possui-o-maior-ticket-m%C3%A9dio-de-compras)
+- [Como se dá a comparação de gastos totais por gênero e por faixa etária? E dos gastos médios?](https://github.com/OtavioBer/ProjetoAplicadoI#8-como-se-d%C3%A1-a-compara%C3%A7%C3%A3o-de-gastos-totais-por-g%C3%AAnero-e-por-faixa-et%C3%A1ria-e-dos-gastos-m%C3%A9dios)
+- [Qual faixa etária mais consome artigos de leitura?](https://github.com/OtavioBer/ProjetoAplicadoI#9-qual-faixa-et%C3%A1ria-mais-consome-artigos-de-leitura)
+- [Qual a localidade de shopping tem o maior consumo por categoria?](https://github.com/OtavioBer/ProjetoAplicadoI#10-qual-a-localidade-de-shopping-tem-o-maior-consumo-por-categoria)
+- [Qual produto tem o maior e menor ticket médio por região?](https://github.com/OtavioBer/ProjetoAplicadoI#11-qual-produto-tem-o-maior-e-menor-ticket-m%C3%A9dio-por-regi%C3%A3o)
 
 ## Apresentação
 ### Integrantes
