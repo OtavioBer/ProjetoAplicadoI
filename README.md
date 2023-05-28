@@ -65,3 +65,6 @@
 ### 9. Qual faixa etária mais consome artigos de leitura?
 ### 10. Qual a localidade de shopping tem o maior consumo por categoria?
 ### 11. Qual produto tem o maior e menor ticket médio por região?
+
+
+### [Assista aqui o video de apresentação](https://youtu.be/zn3LurrLf2k)
